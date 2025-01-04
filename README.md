@@ -4,7 +4,7 @@ Stereoscopic frames are two separate images of the same scene or object, taken f
 
 This repository contains a PyTorch implementation of the [Deep 3D paper](https://arxiv.org/abs/1604.03650), a popular method for monocular-to-stereo image conversion. The paper introduces a novel approach for generating depth information from single images to create stereo pairs, leveraging deep learning techniques.
 
-The main model is in `Deep3D_model.py`. It also contains a model for adjusted parameters for the 1980x1080 images
+The main model is in `Deep3D_model.py`. It also contains a model for adjusted parameters for the 1980x1080 images.
 
 ## Purpose of This Implementation
 
